@@ -70,3 +70,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [Pandas](https://pandas.pydata.org/)
 - [Scikit-learn](https://scikit-learn.org/)
 - [Folium](https://python-visualization.github.io/folium/)
+- [Data sourced from Yelp's academic dataset](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset?resource=download)
